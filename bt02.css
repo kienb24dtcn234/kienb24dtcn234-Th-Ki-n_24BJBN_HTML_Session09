@@ -1,0 +1,34 @@
+table{
+    width: 100%; 
+}
+.div1{
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 30px;
+    display: flex;
+}
+.tr1{  
+    flex-wrap: nowrap;
+    background-color: green;
+    gap: 20px;
+}
+.tr2 {
+    flex-wrap: nowrap;
+    background-color: green;
+    gap: 20px;
+}
+.td1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+.td2 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+td{
+    border-radius: 10px;
+}
